@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://khandalchinmay:Tanmay%4098@spring-crud.hgpgmux.mongodb.net/
+      database: Task
